@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaelrossini1
-- 👀 I’m interested data analyse and data engineering.
-- 🌱 I’m currently learning SQL , Python and correlated softwares/systems.
+- 👀 I’m interested in data engineering.
+- 🌱 I’m currently learning AWS , Python and correlated softwares/systems.
 - 💞️ I’m looking to collaborate on any project that increase my data driven skills
 - 📫 How to reach me rafaelcrossini1@gmail.com
 
