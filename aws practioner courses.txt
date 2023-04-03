@@ -1,0 +1,21 @@
+AWS Cloud Practitioner Full Course | AWS Certified Cloud Practitioner (CLF-C01) | Edureka -
+https://www.youtube.com/watch?v=vBD64MuQlCg&ab_channel=edureka%21
+
+Curso: AWS Cloud Practitioner - parte 1/3 (ft. Thauany Moedano)
+1/3: https://www.youtube.com/watch?v=bGZXVslod5E&ab_channel=Zappts
+
+Curso: AWS Cloud Practitioner - parte 2/3 (ft. Thauany Moedano)
+2/3: https://www.youtube.com/watch?v=NXcvR5TV_Jw&ab_channel=Zappts
+
+Curso: AWS Cloud Practitioner - parte 3/3 (ft. Thauany Moedano)
+3/3: https://www.youtube.com/watch?v=v3D6B_8RYZU&ab_channel=Zappts
+
+Guia Oficial do exame:
+https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+
+Alura:
+https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-1-e-2
+https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-3-e-4
+
+01 simulado de graça:
+https://www.exampro.co/clf-c01
